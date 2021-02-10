@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="after change module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/account" beforeDir="false" afterPath="$PROJECT_DIR$/logs/account" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/account/brun">
+  <component name="RunManager" selected="Go Test.go test github.com/ABottomCoder/account/core/accounts">
     <configuration name="go build github.com/account/brun (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="account" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,8 +64,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go test github.com/ABottomCoder/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <working_directory value="$PROJECT_DIR$/core/accounts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ABottomCoder/account/core/accounts" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.go test github.com/ABottomCoder/account/core/accounts" />
         <item itemvalue="Go Build.go build github.com/account/brun" />
         <item itemvalue="Go Build.go build github.com/account/brun (1)" />
       </list>

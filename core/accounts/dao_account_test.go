@@ -2,8 +2,8 @@ package accounts
 
 import (
 	"database/sql"
-	"github.com/ABottomCoder/infra/base"
 	_ "github.com/ABottomCoder/account/testx"
+	"github.com/ABottomCoder/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"

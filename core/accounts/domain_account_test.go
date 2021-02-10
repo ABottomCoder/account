@@ -1,12 +1,12 @@
 package accounts
 
 import (
+	"github.com/ABottomCoder/account/services"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"
 	"strconv"
 	"testing"
-	"github.com/ABottomCoder/account/services"
 )
 
 func TestAccountDomain_Create(t *testing.T) {
