@@ -60,10 +60,18 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ABottomCoder &lt;49862579+abottomcoder@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="GoVcsConfiguration">
+    <option name="GO_FMT" value="false" />
   </component>
   <component name="ProjectId" id="1oGrtIsHivM51aX8Q83Pw0tcdFQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,6 +105,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="account reconstruct" />
+    <option name="LAST_COMMIT_MESSAGE" value="account reconstruct" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
