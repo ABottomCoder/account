@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/red_envelope.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/gorpc/envelope.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/gorpc/rpc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/web/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/web/envelope.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brun/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/brun/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brun/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/brun/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/dao_account_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/dao_account_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/domain_account.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/domain_account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/domain_account_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/domain_account_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/logs/red_envelope.2021020915.log" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/logs/red_envelope.2021020915.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/po_account.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/po_account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/po_account_log.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/po_account_log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/dao_goods.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/dao_item.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_finds.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_goods.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_item.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_receive.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_refund.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/domain_sending.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/logs/red_envelope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/logs/red_envelope.2021020915.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/po_goods.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/po_item.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/service.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/service_receive_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/envelopes/service_sendout_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery/red_envelope-discovery-1.0-exec.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ec.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/gitupload.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/iris_server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/mysql.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/rpc_client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/refund.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/envelope_consts.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/envelopes.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1oGrtIsHivM51aX8Q83Pw0tcdFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/account/brun" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/brun/main.go" />
+      <package value="github.com/account/brun" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/account/brun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="direct" />
+      </map>
+    </environment>
+  </component>
+</project>
