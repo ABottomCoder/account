@@ -4,7 +4,7 @@ import (
 	"github.com/ABottomCoder/infra"
 	"github.com/ABottomCoder/infra/base"
 	"github.com/kataras/iris/v12"
-	"github.com/account/services"
+	"github.com/ABottomCoder/account/services"
 	"github.com/sirupsen/logrus"
 )
 

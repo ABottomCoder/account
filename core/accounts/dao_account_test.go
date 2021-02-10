@@ -3,7 +3,7 @@ package accounts
 import (
 	"database/sql"
 	"github.com/ABottomCoder/infra/base"
-	_ "github.com/account/testx"
+	_ "github.com/ABottomCoder/account/testx"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"

@@ -5,7 +5,7 @@ import (
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"
 	"testing"
-	"github.com/account/services"
+	"github.com/ABottomCoder/account/services"
 )
 
 func TestAccountService_CreateAccount(t *testing.T) {

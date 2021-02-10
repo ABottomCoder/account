@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"github.com/ABottomCoder/infra/base"
-	"github.com/account/services"
+	"github.com/ABottomCoder/account/services"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"

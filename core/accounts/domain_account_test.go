@@ -6,7 +6,7 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"strconv"
 	"testing"
-	"github.com/account/services"
+	"github.com/ABottomCoder/account/services"
 )
 
 func TestAccountDomain_Create(t *testing.T) {

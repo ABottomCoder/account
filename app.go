@@ -3,8 +3,8 @@ package red_envelope
 import (
 	"github.com/ABottomCoder/infra"
 	"github.com/ABottomCoder/infra/base"
-	_ "github.com/account/apis/web"
-	_ "github.com/account/core/accounts"
+	_ "github.com/ABottomCoder/account/apis/web"
+	_ "github.com/ABottomCoder/account/core/accounts"
 )
 
 func init() {

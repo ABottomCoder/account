@@ -3,7 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="account reconstruct, fourth commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/web/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brun/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/brun/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/dao_account_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/dao_account_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/domain_account.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/domain_account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/domain_account_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/domain_account_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/logs/red_envelope.2021020915.log" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/logs/red_envelope.2021020915.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/po_account.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/po_account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/po_account_log.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/po_account_log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/account.2021021010.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/account.2021021010.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/account.2021021012.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/account.2021021012.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -3,7 +3,7 @@ package accounts
 import (
 	"github.com/shopspring/decimal"
 	"time"
-	"github.com/account/services"
+	"github.com/ABottomCoder/account/services"
 )
 
 type AccountLog struct {

@@ -1,4 +1,4 @@
-module github.com/account
+module github.com/ABottomCoder/account
 
 go 1.15
 

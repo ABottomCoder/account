@@ -1,9 +1,9 @@
 package main
 
 import (
+	_ "github.com/ABottomCoder/account"
 	"github.com/ABottomCoder/infra"
 	"github.com/ABottomCoder/infra/base"
-	_ "github.com/account"
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
 )
