@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="account reconstruct, fourth commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brun/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/brun/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
