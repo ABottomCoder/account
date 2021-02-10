@@ -3,8 +3,8 @@ package accounts
 import (
 	"context"
 	"errors"
-	"github.com/ABottomCoder/infra/base"
 	"github.com/ABottomCoder/account/services"
+	"github.com/ABottomCoder/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
