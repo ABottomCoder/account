@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="after change module">
+      <change afterPath="$PROJECT_DIR$/core/accounts/logs/account.2021022116.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/account.2021022116.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apis/web/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/accounts/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/account" beforeDir="false" afterPath="$PROJECT_DIR$/logs/account" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/account.2021021010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/account.2021021012.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +32,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -32,36 +47,65 @@
     <option name="GO_FMT" value="false" />
   </component>
   <component name="ProjectId" id="1oGrtIsHivM51aX8Q83Pw0tcdFQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Go Test.go test github.com/ABottomCoder/account/core/accounts">
-    <configuration name="go build github.com/account/brun (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/ABottomCoder/account/brun" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="account" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/brun/atest.go" />
-      <package value="github.com/account/brun" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/brun/main.go" />
+      <package value="github.com/ABottomCoder/account/brun" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/account/brun" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAccountDao_UpdateBalance in github.com/ABottomCoder/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="account" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/brun/main.go" />
-      <package value="github.com/account/brun" />
+      <working_directory value="$PROJECT_DIR$/core/accounts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ABottomCoder/account/core/accounts" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestAccountDao_UpdateBalance\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAccountLogDao in github.com/ABottomCoder/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <working_directory value="$PROJECT_DIR$/core/accounts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ABottomCoder/account/core/accounts" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestAccountLogDao\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAccountService_Transfer in github.com/ABottomCoder/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <working_directory value="$PROJECT_DIR$/core/accounts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ABottomCoder/account/core/accounts" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestAccountService_Transfer\E$" />
       <method v="2" />
     </configuration>
     <configuration name="go test github.com/ABottomCoder/account/core/accounts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -77,8 +121,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.go test github.com/ABottomCoder/account/core/accounts" />
-        <item itemvalue="Go Build.go build github.com/account/brun" />
-        <item itemvalue="Go Build.go build github.com/account/brun (1)" />
+        <item itemvalue="Go Build.go build github.com/ABottomCoder/account/brun" />
+        <item itemvalue="Go Test.TestAccountService_Transfer in github.com/ABottomCoder/account/core/accounts" />
+        <item itemvalue="Go Test.TestAccountDao_UpdateBalance in github.com/ABottomCoder/account/core/accounts" />
+        <item itemvalue="Go Test.TestAccountLogDao in github.com/ABottomCoder/account/core/accounts" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +157,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="account reconstruct" />
     <MESSAGE value="account reconstruct, fourth commit" />
     <MESSAGE value="after change module" />

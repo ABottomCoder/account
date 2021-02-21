@@ -68,7 +68,7 @@ func (a *accountService) Transfer(dto services.AccountTransferDTO) (services.Tra
 	}
 	dto.Amount = amount
 	if dto.ChangeFlag == services.FlagTransferOut {
-		if dto.ChangeType > 0 {
+		if dto.ChangeType > 1 {
 			return services.TransferedStatusFailure,
 				errors.New("如果changeFlag为支出，那么changeType必须小于0")
 		}
