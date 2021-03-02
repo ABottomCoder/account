@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1923ce7-bdda-463f-986d-3e751b49a9d5" name="Default Changelist" comment="after change module">
+      <change afterPath="$PROJECT_DIR$/brun/account_micro_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/account_micro_linux_amd64.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/logs/account" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/logs/account.2021022117.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/core/accounts/logs/account.2021022116.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/logs/account.2021022117.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/logs/account.2021022116.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/account.2021022117.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/web/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/accounts/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brun/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/brun/build.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/account" beforeDir="false" afterPath="$PROJECT_DIR$/logs/account" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/account.2021021010.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/account.2021021012.log" beforeDir="false" />
